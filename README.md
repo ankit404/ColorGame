@@ -2,7 +2,7 @@
 <hr>
 <p>
 A RBG color guessing Game,
-Here the program will generate randome color and you have to guess the right one.
+Here the program will generate randome colors and you have to guess the right one.
 </p>
 <ul>
 <li>You have Easy Mode & Hard Mode</li>

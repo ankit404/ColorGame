@@ -1,4 +1,4 @@
-PROJECT DESCRIPTION :-
+PROJECT DESCRIPTION :--
 <hr>
 <p>
 A RBG color guessing Game,

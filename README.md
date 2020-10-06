@@ -2,7 +2,7 @@ PROJECT DESCRIPTION :--
 <hr>
 <p>
 A RBG color guessing Game,
-Here is a  program that  will generate random colors and you have to guess the correct one.
+Here is a  program that  will generate random colors and you have to guess the correct one!.
 </p>
 <ul>
 <li>You have Easy Mode & Hard Mode</li>
